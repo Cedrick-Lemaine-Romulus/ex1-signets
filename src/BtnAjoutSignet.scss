@@ -1,0 +1,15 @@
+.BtnAjoutSignet {
+    position: absolute;
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    outline: none;
+    right: 125px;
+    bottom: -20px;
+    box-shadow: #1f1f1f 2px 2px 5px;
+}
